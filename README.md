@@ -6,7 +6,7 @@ Propensity modelling is a process of assigning propbabilities to commit a certai
 
 Bottom line: propensity models form a crucial pillar in marketing analytics and are extremely valuable to the business. Let’s see now how can we make the process of propensity modelling in Python as easy as possible.
 
-Dataset: https://www.kaggle.com/vasudeva009/predicting-coupon-redemption
+Kaggle: https://www.kaggle.com/vasudeva009/predicting-coupon-redemption
 
 # Objective: 
 
