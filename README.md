@@ -6,10 +6,9 @@ Propensity modelling is a process of assigning propbabilities to commit a certai
 
 Bottom line: propensity models form a crucial pillar in marketing analytics and are extremely valuable to the business. Let’s see now how can we make the process of propensity modelling in Python as easy as possible.
 
-##Setup##
 Dataset: https://www.kaggle.com/vasudeva009/predicting-coupon-redemption
 
-##Objective##: 
+# Objective: 
 
 What kind of propensity are we going to predict? Well, if you look at the EDA section in the notebook, you can see that customers make pruchases quite freuqently, so propnesity to buy in the next month or week would not be very useful for this business. Hence, instead of predicting if a person is going to make pruchase, we are going to predict if the number of transactions is going to be larger than average. We’re also going to do it on the weekly level as it gives more detailed insights and can still be actionable for marketing managers. The only thing that we need to specify is the threhsold above which we’lll classify the customer as super customer for the next week. 
 
